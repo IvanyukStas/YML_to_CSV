@@ -1,0 +1,39 @@
+<yml_catalog date="2021-03-23 14:02">
+<shop>
+<name>test</name>
+<company>test</company>
+<url>test</url>
+<currencies>
+...
+</currencies>
+<delivery-options>
+...
+</delivery-options>
+<categories>
+...
+</categories>
+<offers> //блок с товарами
+  <offer id="1916" available="true"> //товар
+    <url>http://meradog.ru/for_dogs/lakomstva/assorty/gourmet_happen/</url>
+    <name>Лакомство Mera "Gourmet Happen" ( "Гоурмет Хаппен") (Радуга удовольствий), 10 кг</name>
+    <price>4734</price>
+    <picture>http://meradog.ru/upload/pictures/1802061022331078_big.jpg</picture>
+    <description>Лакомство ассорти для собак</description>
+  </offer>
+  <offer id="1914" available="true"> //товар
+    <url>http://meradog.ru/for_dogs/lakomstva/assorty/gourmet_happen/</url>
+    <name>Лакомство Mera "Gourmet Happen" ( "Гоурмет Хаппен") (Радуга удовольствий), 10 кг</name>
+    <price>4744434</price>
+    <picture>http://meradog.ru/upload/pictures/1802061022331078_big.jpg</picture>
+    <description>Лакомство ассорти для собак</description>
+  </offer>
+  <offer id="19134" available="true"> //товар
+    <url>http://meradog.ru/for_dogs/lakomstva/assorty/gourmet_happen/</url>
+    <name>Лакомство Mera "Gourmet Happen" ( "Гоурмет Хаппен") (Радуга удовольствий), 10 кг</name>
+    <price>474444555566565634</price>
+    <picture>http://meradog.ru/upload/pictures/1802061022331078_big.jpg</picture>
+    <description>Лакомство ассорти для собак</description>
+  </offer>
+</offers>
+</shop>
+</yml_catalog>
